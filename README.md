@@ -1,3 +1,3 @@
 # bem vindo ao curso gihtub
 
-TESTE
+DESCRIÇÃO DO MEU README 
